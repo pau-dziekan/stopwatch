@@ -12,6 +12,8 @@ function Main() {
         setTimerArray(timeArray);
     }, [timeInSeconds]);
 
+    // komentarz
+
 
     return (
     <main>
